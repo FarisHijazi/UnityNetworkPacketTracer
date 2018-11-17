@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\faris\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_UnityNetworkPacketTracer.694808796.00" t="ExcludeRecursive" />
+    <e p="D:\Buza\!Projects\Unity Projects\UnityNetworkPacketTracer" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Datalink.cs" t="Include" />
+          <e p="EditorScript.cs" t="Include" />
+          <e p="Manager.cs" t="Include" />
+          <e p="MouseScrollCamera.cs" t="Include" />
+          <e p="NameServer.cs" t="Include" />
+          <e p="NetworkEntity.cs" t="Include" />
+          <e p="Packet.cs" t="Include" />
+          <e p="TimeScaleSlider.cs" t="Include" />
+          <e p="TraverseNodes.cs" t="Include" />
+          <e p="Utils.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="UnityNetworkPacketTracer.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
