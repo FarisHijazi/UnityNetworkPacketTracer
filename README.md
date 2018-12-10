@@ -14,6 +14,9 @@ For the example case in the [releases](https://github.com/buzamahmooza/UnityNetw
 
 
 # Team members:
-Faris Hijazi      Tasked with doing the programming and implementation.
+- Faris Hijazi
 
-Mohammed Bejadi   Tasked with the theoretical and calculation details.
+  Tasked with doing the programming and implementation.
+- Mohammed Bejadi
+
+  Tasked with the theoretical and calculation details.
