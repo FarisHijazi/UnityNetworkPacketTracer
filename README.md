@@ -9,6 +9,9 @@ This project started as a makeup question in my networking course at [KFUPM](htt
 The example under [releases](https://github.com/buzamahmooza/UnityNetworkPacketTracer/releases), the program is emulating an environment where a host is sending an email through a web server, and initiating DNS lookups.
 The main purpose is to show the process of communication between nodes and the approximating delays between the messages.
 
+<img src="Screenshots/UnityNetworkPacketTracer%20recording%20fullscreen.gif" alt="General Screenshot"/>
+
+
 # How to use:
 For the example case in the [releases](https://github.com/buzamahmooza/UnityNetworkPacketTracer/releases), the options exist for changing link speeds/propagation delays, file size, and iterative/recursive search.
 - Link speed/propogation:
@@ -21,6 +24,7 @@ For the example case in the [releases](https://github.com/buzamahmooza/UnityNetw
   
   Click the checkbox if you want iterative search, otherwise recursive lookup is done by default
 
+<img src="Screenshots/MakeupScreenshot.png" alt="General Screenshot" />
 
 
 # Team members:
