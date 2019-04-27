@@ -9,6 +9,8 @@ This project started as a makeup question in my networking course at [KFUPM](htt
 The example under [releases](https://github.com/buzamahmooza/UnityNetworkPacketTracer/releases), the program is emulating an environment where a host is sending an email through a web server, and initiating DNS lookups.
 The main purpose is to show the process of communication between nodes and the approximating delays between the messages.
 
+[Link to demo video](https://www.youtube.com/watch?v=OFGy0-Qt96c)
+
 <img src="Screenshots/UnityNetworkPacketTracer%20recording%20fullscreen.gif" alt="General Screenshot"/>
 
 
